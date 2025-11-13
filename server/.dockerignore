@@ -1,0 +1,34 @@
+node_modules
+npm-debug.log
+.npm
+.env
+.env.local
+.DS_Store
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+*.log
+
+# Development files
+.env.development
+.env.test
+.env.production
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Test coverage
+coverage
+
+# Temporary files
+tmp/
+temp/
